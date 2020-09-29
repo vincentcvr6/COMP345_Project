@@ -6,3 +6,5 @@ Term project for the COMP345 course at Concordia University. This Repository wil
 
 A Warzone game consists of a connected graph map representing a world map, where each node is a territory and each edge represents adjacency between territories. Two or more players can play by placing armies on territories they own, from which they can attack adjacent territories to conquer them. 
 
+The project will be seperated in 3 different assignments and will form one big project. 
+
